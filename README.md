@@ -1,4 +1,4 @@
-# 30DaysOfQt
+# IntroToQt
 
 Qt is a cross-platform framework for developing graphical user interfaces (GUIs) and applications in C++. It was originally developed by Trolltech in 1995, and is now owned by The Qt Company.
 
